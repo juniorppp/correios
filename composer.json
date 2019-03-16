@@ -1,12 +1,11 @@
 {
-    "name": "modulo/my_modulo",
+    "name": "my_modulo/Correios/correios",
     "description": "Consulta de encomenda no correios for Slim Framework",
     "keywords": [
         "slim", "session", "middleware"
     ],
-    "homepage": "http://github.com/junior",
+    "homepage": "http://github.com/juniorppp",
     "type": "library",
-    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Gelson Junior",
@@ -16,9 +15,6 @@
     ],
     "require": {
         "php": ">=5.5"
-    },
-    "require-dev": {
-        "slim/slim": "^3.0"
     },
     "autoload": {
         "psr-4": {
